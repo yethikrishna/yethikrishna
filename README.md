@@ -1,8 +1,8 @@
 <div align="center">
 
-# Yethikrishna R
+<h1>Yethikrishna R</h1>
 
-**Building infrastructure that makes AI agents useful.**
+**I build systems that shouldn't be possible for one person — then make them real.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-yethikrishna-181717?style=flat-square&logo=github)](https://github.com/yethikrishna)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yethikrishna-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yethikrishna-r-313530201/)
@@ -11,123 +11,186 @@
 
 ---
 
-## What I Build
+## Who I Am
 
-I don't build tutorials. I build **production-scale systems** — the kind that process real work, handle edge cases, and run non-stop. Currently operating a 24-agent autonomous engineering org that ships code to two active projects every hour.
-
----
-
-## Featured Projects
-
-### 🔥 [The Forge](https://github.com/yethikrishna/the-forge) — AI Agent Orchestration Platform
-
-A unified runtime for building, deploying, and managing AI agents at scale. Written in Go from scratch.
-
-```
-182K+ lines of Go  •  232 internal packages  •  164 CLI commands  •  283 commits
-```
-
-**What it does:**
-- **Agent Client Protocol (ACP)** — standardized SDK for any AI agent
-- **Multi-model routing** — route requests across providers with cost optimization
-- **Sandboxed execution** — httpjail-based network isolation per agent
-- **Pipeline engine** — compose agents into DAG workflows
-- **242+ commands** — everything from `forge serve` to `forge orchestrate` to `forge cost`
-
-**Why it matters:** This isn't a wrapper around LangChain. It's a ground-up orchestration platform that treats agents as first-class infrastructure — with audit trails, cost tracking, replay, and governance built in.
-
-**Tech:** Go, Cobra CLI, gRPC, Docker, WireGuard tunnels, CRDT-based state sync
+I'm a builder from Kerala, India. I don't specialize in one stack — I build whatever the project demands: a 182K-line Go CLI platform, a 6-app TypeScript ecosystem, a zero-dependency Python search engine, a Rust code analyzer, a 3D browser game about Kerala's heritage, a programming language. I've shipped **69 original projects** across 9 languages in 4 years. Every single one built by hand before I ever touched AI acceleration.
 
 ---
 
-### 🌐 [Project Anvil](https://github.com/yethikrishna/project-anvil) — Federated Alphabet Ecosystem
+## The Scale
 
-A complete self-hosted alternative to Google's core productivity suite, unified under single sign-on.
-
-```
-6 apps  •  Drive • Docs • YouTube • Maps • Search • Gmail  •  SSO via Keycloak
-```
-
-**What it does:**
-- **Google Drive clone** — S3/MinIO storage, materialized path directories, share links
-- **Google Docs clone** — Tiptap editor + Yjs CRDT + Hocuspocus WebSocket for real-time collab
-- **YouTube clone** — Redux-cached video search with debounced autocomplete
-- **Google Maps clone** — MapLibre GL + OpenMapTiles + OSRM routing + WebGL rendering
-- **Google Search clone** — Meilisearch-powered full-text + vector search
-- **Gmail clone** — Stalwart JMAP mail server with modern client
-
-**Why it matters:** This proves you can build a privacy-first, self-hosted productivity suite that doesn't sacrifice the features people actually use. One auth system, six apps, zero Google dependency.
-
-**Tech:** Next.js 16, React 19, TypeScript, Tiptap, Yjs, MapLibre, Meilisearch, Keycloak, MinIO, PostgreSQL, Redis, Docker Compose
+| What | Number |
+|------|--------|
+| Original projects shipped | **69** |
+| Languages used in production | **9** (Go, TypeScript, Python, Rust, Svelte, Vue, HTML, Jupyter, JS) |
+| Lines of production code (the-forge alone) | **182K+** |
+| Internal packages designed & built | **232** |
+| CLI commands implemented | **164** |
+| Google products cloned from scratch | **6** |
+| "World's first" projects | **4** |
+| Hackathon wins/submissions | **Multiple** |
 
 ---
 
-### 🧠 [KARMA](https://github.com/yethikrishna/karma-platform) — Causal Decision Intelligence
+## The Work
 
-Build causal graphs, run counterfactual reasoning, and make better decisions. Not just correlation — causation.
+### 🏗️ Infrastructure at Scale
 
-**Tech:** Python, causal inference, graph algorithms
+<table>
+<tr>
+<td width="50%">
+
+### [The Forge](https://github.com/yethikrishna/the-forge)
+**AI Agent Orchestration Platform — Go**
+
+182K+ lines. 232 packages. 164 commands. Built from scratch.
+
+ACP SDK for any agent. Multi-model routing with cost optimization. httpjail sandboxing. Pipeline DAG engine. Audit trails. Replay. Governance scoring. WireGuard tunnels. P2P file transfer. This isn't a wrapper — it's ground-up infrastructure that treats agents as first-class systems.
+
+</td>
+<td width="50%">
+
+### [Project Anvil](https://github.com/yethikrishna/project-anvil)
+**Federated Alphabet Ecosystem — TypeScript/Next.js**
+
+Six full Google product clones. One auth system. Zero Google dependency.
+
+Drive (S3/MinIO), Docs (Tiptap + Yjs CRDT + Hocuspocus real-time), YouTube (Redux + debounced search), Maps (MapLibre + OSRM routing + WebGL), Search (Meilisearch + vector), Gmail (Stalwart JMAP). SSO via Keycloak. Docker Compose one-command deploy.
+
+</td>
+</tr>
+</table>
+
+### 🧠 The MYND Ecosystem — 7 Interconnected Platforms
+
+A complete AI observability and intelligence stack. Each repo is a standalone platform, together they form a unified system for understanding AI agents:
+
+| Project | What It Does |
+|---------|-------------|
+| [**MYND Platform**](https://github.com/yethikrishna/mynd-platform) | Core agent platform — GUI automation, persistent memory, multi-agent orchestration, skills marketplace |
+| [**MYND Knowledge Paleontology**](https://github.com/yethikrishna/mynd-knowledge-paleontology) | 🧬 World's first knowledge origin & lineage tracking for AI — the fossil record of what AI knows and where it came from |
+| [**MYND Decision Paleontology**](https://github.com/yethikrishna/mynd-decision-paleontology) | World's first agent decision forensics — provenance tracking for every choice an AI makes |
+| [**MYND Prompt Phylogeny**](https://github.com/yethikrishna/mynd-prompt-phylogeny) | World's first prompt evolutionary lineage — biological phylogenetics applied to prompt engineering |
+| [**MYND Model Holography**](https://github.com/yethikrishna/mynd-model-holography) | World's first model knowledge transfer & distillation visualization — see how intelligence flows between models |
+| [**MYND Model Arena**](https://github.com/yethikrishna/mynd-model-arena) | LLM evolutionary benchmarking — survival of the fittest model |
+| [**MYND Agent Replay**](https://github.com/yethikrishna/mynd-agent-replay) | Black box flight recorder for AI agents — replay any decision, any action |
+
+### 🔬 Deep Tech
+
+<table>
+<tr>
+<td width="33%">
+
+### [KARMA](https://github.com/yethikrishna/karma-platform)
+**Causal Decision Intelligence — Python**
+
+Build causal graphs. Run counterfactual reasoning. Move beyond correlation to causation. Not "what happened" — "what would happen if."
+
+</td>
+<td width="33%">
+
+### [RBSP Framework](https://github.com/yethikrishna/rbsp-framework)
+**Search Engine from Scratch — Python**
+
+Zero-dependency, pure-Python SOTA search engine. 3,233 tests. 80+ modules. No ElasticSearch, no Solr — the indexing, the ranking, the query parsing, all hand-built.
+
+</td>
+<td width="33%">
+
+### [INDU Foundation](https://github.com/yethikrishna/indu-foundation)
+**Programming Language — Svelte**
+
+A universal language & framework. Write with Python's ease, scale with Erlang's fault-tolerance, execute with C's speed. Language design + runtime architecture.
+
+</td>
+</tr>
+</table>
+
+### 🤖 AI Products
+
+| Project | What It Does |
+|---------|-------------|
+| [**LevelCode**](https://github.com/yethikrishna/levelcode) ⭐2 | Open-source AI coding agent — multi-agent architecture for precise codebase editing. Built to be better than Claude Code. |
+| [**YETR AI Agent**](https://github.com/yethikrishna/yetr-ai-agent) ⭐1 | Enhanced task runner — connects to multiple MCP servers simultaneously for unified tool & data access |
+| [**Feen**](https://github.com/yethikrishna/feen) ⭐2 | Secure API key sharing — manage, share, and monetize API keys. Open-source. |
+| [**Bonzai Core Engine**](https://github.com/yethikrishna/bonzai-core-engine) | AI platform backend with MCP memory integration |
+| [**ContextWeave AI**](https://github.com/yethikrishna/contextweave-ai) | Production-ready AI orchestration for context-aware apps |
+| [**LifeGuide AI**](https://github.com/yethikrishna/lifeguide-ai) 🏆 | AI Wellness Companion — MiniMax Hackathon 2025 |
+| [**Forge (Rust)**](https://github.com/yethikrishna/forge) | Code transformation & analysis platform in Rust |
+
+### 🛠️ SaaS & Tools
+
+| Project | What It Does |
+|---------|-------------|
+| [**VaultFlow**](https://github.com/yethikrishna/vaultflow) | Privacy-first, offline-enabled SaaS — contracts, file sharing, payment milestones for freelancers |
+| [**KeepTrak**](https://github.com/yethikrishna/keeptrak) | Offline-first finance tracker for solo founders — invoices, contracts, no cloud needed |
+| [**Neural Workspaces**](https://github.com/yethikrishna/neural-workspaces-saas) | AI workspace capture + knowledge graph with browser extension |
+
+### 🎮 Creative & Experimental
+
+| Project | What It Does |
+|---------|-------------|
+| [**Private Vault — Kerala Game**](https://github.com/yethikrishna/private-vault-kerala-game) | 3D web adventure game exploring Kerala's cultural heritage — authentic cities, traditional vehicles, cultural landmarks. No login, instant play. |
+| [**Yethanus**](https://github.com/yethikrishna/Yethanus) | Experimental Python project |
+| [**YetiChat**](https://github.com/yethikrishna/yetichat-ai) | AI research assistant powered by Gemini + LangGraph |
+| [**Sherlock**](https://github.com/yethikrishna/Sherlock) | Investigation tool |
 
 ---
 
-## How I Work
-
-I run an **autonomous AI engineering org** — 24 specialized agents across 5 LLM providers (Claude, Grok, GLM-5.1, Bedrock) working in coordinated shifts:
+## The Journey
 
 ```
-CEO → CTOs → Coders, Architects, QA, R&D
-         ↕
-Intelligence Dept (Signal Scanner, Deep Analyst, Source Tracker, Curator)
-         ↕
-Operations (Security, Release, Docs, Cost Ops, BizDev, Janitor)
+2022 ─── First repo. The beginning.
+  │
+2023 ─── Learning. Exploring. Building foundations.
+  │
+2024 ─── Finding the path. More experiments.
+  │
+2025 ─── The explosion. 38 original projects.
+  │       Yeti AI ecosystem. Bonzai. MCP integration.
+  │       Hackathons. Chat apps. 3D games. AI agents.
+  │
+2026 ─── The synthesis. 28 projects and counting.
+  │       MYND — 7 interconnected AI platforms.
+  │       KARMA — causal intelligence.
+  │       RBSP — search from scratch.
+  │       INDU — a programming language.
+  │       The Forge — 182K lines of Go.
+  │       Project Anvil — 6 Google clones.
+  │       And an autonomous 24-agent engineering org
+  │       that ships production code every hour.
 ```
 
-These agents read real-time signals from X, Hacker News, GitHub trending, and npm releases — then write production code, run tests, and ship. Every commit is tested. Every release is gated. This isn't a demo — it's a real engineering pipeline that runs 24/7.
-
 ---
 
-## By The Numbers
+## Stack
 
-| Metric | Value |
-|--------|-------|
-| Total lines of production code | **200K+** |
-| Active projects | **2** (the-forge, project-anvil) |
-| Internal packages built | **232+** |
-| CLI commands implemented | **164+** |
-| Autonomous AI agents in org | **24** |
-| LLM providers integrated | **5** |
-| Real-time collab apps built | **6** (Drive, Docs, YouTube, Maps, Search, Gmail) |
+**Systems:** Go, Rust, Python, TypeScript/JavaScript, Svelte, Vue
 
----
+**AI/ML:** Multi-provider LLM orchestration, RAG, vector search, causal inference, CRDT, agent protocols (ACP, MCP), prompt phylogenetics, knowledge distillation
 
-## Tech Stack
+**Frontend:** React, Next.js 16, Tiptap, MapLibre, Three.js, Tailwind, Redux
 
-**Languages:** Go, TypeScript, Python, Rust
+**Backend:** gRPC, Chi, Express, Fastify, Hocuspocus, Keycloak, WireGuard
 
-**Frontend:** React, Next.js, Tiptap, MapLibre, Tailwind CSS, Redux
+**Data:** PostgreSQL, Redis, MinIO/S3, Meilisearch, Yjs
 
-**Backend:** Go (Chi/Cobra), Node.js (Express/Fastify), Hocuspocus, gRPC
-
-**Data:** PostgreSQL, Redis, MinIO (S3), Meilisearch, Keycloak
-
-**Infra:** Docker, WireGuard, AWS, GitHub Actions, CRDT (Yjs)
-
-**AI/ML:** Multi-provider LLM routing, RAG, vector search, causal inference, agent orchestration
+**Infra:** Docker, Docker Compose, AWS, GitHub Actions
 
 ---
 
 ## Philosophy
 
-> Ship working systems, not slide decks.
+I don't follow tutorials. I read source code. I don't use frameworks I don't understand. I rebuild them. I don't stop at "it works" — I stop at "it's right."
 
-Every project in my profile compiles. Every feature has tests. Every architecture decision is documented. I believe the best resume is code that runs.
+Every project in this profile was built to solve a real problem. Every repo compiles. Every architecture was designed before coded. 125 repositories isn't hoarding — it's the output of someone who builds constantly, ships relentlessly, and never stops learning.
 
 ---
 
 <div align="center">
 
-**[→ See The Forge in action](https://github.com/yethikrishna/the-forge)**  •  **[→ Explore Project Anvil](https://github.com/yethikrishna/project-anvil)**
+**[→ The Forge](https://github.com/yethikrishna/the-forge)** · **[→ Project Anvil](https://github.com/yethikrishna/project-anvil)** · **[→ MYND Ecosystem](https://github.com/yethikrishna/mynd-platform)** · **[→ KARMA](https://github.com/yethikrishna/karma-platform)**
 
-<img src="https://komarev.com/ghpvc/?username=yethikrishna&color=blue&style=flat-square" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=yethikrishna&color=blue&style=flat-square" alt="views">
 
 </div>
