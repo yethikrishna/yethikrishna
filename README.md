@@ -13,7 +13,7 @@
 
 ## Who I Am
 
-I'm a builder from Kerala, India. I don't specialize in one stack — I build whatever the project demands: a 182K-line Go CLI platform, a 6-app TypeScript ecosystem, a zero-dependency Python search engine, a Rust code analyzer, a 3D browser game about Kerala's heritage, a programming language. I've shipped **69 original projects** across 9 languages in 4 years. Every single one built by hand before I ever touched AI acceleration.
+I'm a builder from Kerala, India. I don't specialize in one stack — I build whatever the project demands: a 182K-line Go CLI platform, a 6-app TypeScript ecosystem, a zero-dependency Python search engine, a Rust code analyzer, a 3D browser game about Kerala's heritage, a programming language, and multiple SaaS products that served hundreds of real users. I've shipped **69+ original projects** across 9 languages, with **30+ additional private projects** including deployed products and client work. Every line of the early work was written by hand — AI acceleration came later, as a multiplier on existing craft.
 
 ---
 
@@ -21,14 +21,17 @@ I'm a builder from Kerala, India. I don't specialize in one stack — I build wh
 
 | What | Number |
 |------|--------|
-| Original projects shipped | **69** |
+| Original projects shipped (public) | **69** |
+| Private projects & client work | **30+** |
+| Total repositories | **125+** |
 | Languages used in production | **9** (Go, TypeScript, Python, Rust, Svelte, Vue, HTML, Jupyter, JS) |
 | Lines of production code (the-forge alone) | **182K+** |
 | Internal packages designed & built | **232** |
 | CLI commands implemented | **164** |
 | Google products cloned from scratch | **6** |
+| SaaS products deployed to real users | **Multiple** |
 | "World's first" projects | **4** |
-| Hackathon wins/submissions | **Multiple** |
+| Hackathon projects | **Multiple** |
 
 ---
 
@@ -106,11 +109,30 @@ A universal language & framework. Write with Python's ease, scale with Erlang's 
 </tr>
 </table>
 
-### 🤖 AI Products
+### 🚀 Shipped Products & SaaS (Private / Deployed)
+
+These aren't repos that just exist — they were **deployed, had real users, and processed real traffic**:
+
+| Product | What It Does | Status |
+|---------|-------------|--------|
+| **Mynd Labs** | AI-native IDE with integrated terminal, browser, and agent workspace | Deployed at myndlabs.tech |
+| **YETR by Yeti AI** | Comprehensive AI workspace platform — multi-agent, MCP-connected, full creative suite | Deployed, hundreds of users |
+| **Yeti AI Platform** | Full-stack conversational AI platform & creative suite with 1000+ app connectors | Deployed, production |
+| **YetiChat** | Real-time chat platform powered by AI (Gemini + LangGraph) | Deployed |
+| **YETR Content Creation** | AI-powered content generation platform for creative workflows | Deployed |
+| **Yeti AI Corporate** | Full corporate website — 8 pages, animations, modern design | Live |
+| **Full-Feature Agentic App** | Complete agentic AI application with multi-agent orchestration | Live at yobo-sigma.vercel.app |
+| **Kortix Suna (Fork)** | Agent orchestration platform — enhanced fork with custom integrations | Live at kortix-suna.vercel.app |
+| **Study AI** | AI-powered study assistant | Deployed |
+| **Goodspeed Landing Pages** | High-conversion landing pages for multiple products | Deployed |
+
+Plus **client work, internal tools, Discord bots, and prototype products** across 30+ private repositories — from accounting systems to prompt optimizers to logo studios to AI browser chats.
+
+### 🤖 AI Products (Public)
 
 | Project | What It Does |
 |---------|-------------|
-| [**LevelCode**](https://github.com/yethikrishna/levelcode) ⭐2 | Open-source AI coding agent — multi-agent architecture for precise codebase editing. Built to be better than Claude Code. |
+| [**LevelCode**](https://github.com/yethikrishna/levelcode) ⭐2 | Open-source AI coding agent — multi-agent architecture for precise codebase editing. Built to go beyond Claude Code. |
 | [**YETR AI Agent**](https://github.com/yethikrishna/yetr-ai-agent) ⭐1 | Enhanced task runner — connects to multiple MCP servers simultaneously for unified tool & data access |
 | [**Feen**](https://github.com/yethikrishna/feen) ⭐2 | Secure API key sharing — manage, share, and monetize API keys. Open-source. |
 | [**Bonzai Core Engine**](https://github.com/yethikrishna/bonzai-core-engine) | AI platform backend with MCP memory integration |
@@ -131,8 +153,7 @@ A universal language & framework. Write with Python's ease, scale with Erlang's 
 | Project | What It Does |
 |---------|-------------|
 | [**Private Vault — Kerala Game**](https://github.com/yethikrishna/private-vault-kerala-game) | 3D web adventure game exploring Kerala's cultural heritage — authentic cities, traditional vehicles, cultural landmarks. No login, instant play. |
-| [**Yethanus**](https://github.com/yethikrishna/Yethanus) | Experimental Python project |
-| [**YetiChat**](https://github.com/yethikrishna/yetichat-ai) | AI research assistant powered by Gemini + LangGraph |
+| [**YetiChat AI**](https://github.com/yethikrishna/yetichat-ai) | AI research assistant powered by Gemini + LangGraph |
 | [**Sherlock**](https://github.com/yethikrishna/Sherlock) | Investigation tool |
 
 ---
@@ -147,17 +168,20 @@ A universal language & framework. Write with Python's ease, scale with Erlang's 
 2024 ─── Finding the path. More experiments.
   │
 2025 ─── The explosion. 38 original projects.
-  │       Yeti AI ecosystem. Bonzai. MCP integration.
-  │       Hackathons. Chat apps. 3D games. AI agents.
+  │       Yeti AI ecosystem — chat, agents, content creation, 
+  │       corporate site. Multiple SaaS products deployed.
+  │       Hackathons. Bonzai. MCP integration.
+  │       Real users on real products.
   │
 2026 ─── The synthesis. 28 projects and counting.
-  │       MYND — 7 interconnected AI platforms.
+  │       MYND — 7 interconnected AI observability platforms.
   │       KARMA — causal intelligence.
   │       RBSP — search from scratch.
   │       INDU — a programming language.
   │       The Forge — 182K lines of Go.
   │       Project Anvil — 6 Google clones.
-  │       And an autonomous 24-agent engineering org
+  │       Mynd Labs — deployed AI-native IDE.
+  │       And a 24-agent autonomous engineering org
   │       that ships production code every hour.
 ```
 
@@ -175,15 +199,15 @@ A universal language & framework. Write with Python's ease, scale with Erlang's 
 
 **Data:** PostgreSQL, Redis, MinIO/S3, Meilisearch, Yjs
 
-**Infra:** Docker, Docker Compose, AWS, GitHub Actions
+**Infra:** Docker, Docker Compose, AWS, Vercel, GitHub Actions
 
 ---
 
 ## Philosophy
 
-I don't follow tutorials. I read source code. I don't use frameworks I don't understand. I rebuild them. I don't stop at "it works" — I stop at "it's right."
+I don't follow tutorials. I read source code. I don't use frameworks I don't understand — I rebuild them. I don't stop at "it works" — I stop at "it's right." And I don't just push to GitHub — I deploy, get users, and learn from real traffic.
 
-Every project in this profile was built to solve a real problem. Every repo compiles. Every architecture was designed before coded. 125 repositories isn't hoarding — it's the output of someone who builds constantly, ships relentlessly, and never stops learning.
+Every project in this profile was built to solve a real problem. Every repo compiles. Every architecture was designed before coded. 125+ repositories isn't hoarding — it's the output of someone who builds constantly, ships relentlessly, and never stops learning.
 
 ---
 
