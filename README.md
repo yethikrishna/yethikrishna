@@ -1,101 +1,133 @@
-# Hi there 👋 I'm Yethikrishna R
+<div align="center">
 
-## 🚀 About Me
-**Student** with  years of experience in Coding. Passionate about NLP , Future Technologies  and dedicated to building high-quality software solutions.
+# Yethikrishna R
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yethikrishna&show_icons=true&theme=radical&count_private=true)
+**Building infrastructure that makes AI agents useful.**
 
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yethikrishna&theme=radical)  
+[![GitHub](https://img.shields.io/badge/GitHub-yethikrishna-181717?style=flat-square&logo=github)](https://github.com/yethikrishna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yethikrishna-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yethikrishna-r-313530201/)
 
-### 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yethikrishna&layout=compact&theme=radical)
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-## 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yethikrishna&theme=radical&no-frame=true&row=1&column=6)  
-
-## 📱 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yethikrishna-r-313530201/)                  
-          
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@yethikrishnar)                
-
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://home.yethikrishnar.pw)                    
-
-## 📊 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=yethikrishna&color=brightgreen)  
+</div>
 
 ---
 
-## 🌟 Featured Projects
+## What I Build
 
-### [Project Name 1](https://github.com/your-username/project1)
-**Description:** Brief description of your project. What problem does it solve? What technologies did you use?
-
-![Project Screenshot](https://link-to-screenshot.png)
-
-- 🛠️ **Technologies:** React, Node.js, MongoDB
-- ⭐ **Stars:** 100+
-- 🍴 **Forks:** 20+
-- 📝 **Features:** List key features here
-
-### [Project Name 2](https://github.com/your-username/project2)
-**Description:** Another impressive project description.
-
-- 🛠️ **Technologies:** Python, Django, PostgreSQL
-- ⭐ **Stars:** 50+
-- 🍴 **Forks:** 10+
+I don't build tutorials. I build **production-scale systems** — the kind that process real work, handle edge cases, and run non-stop. Currently operating a 24-agent autonomous engineering org that ships code to two active projects every hour.
 
 ---
 
-## 📚 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## Featured Projects
+
+### 🔥 [The Forge](https://github.com/yethikrishna/the-forge) — AI Agent Orchestration Platform
+
+A unified runtime for building, deploying, and managing AI agents at scale. Written in Go from scratch.
+
+```
+182K+ lines of Go  •  232 internal packages  •  164 CLI commands  •  283 commits
+```
+
+**What it does:**
+- **Agent Client Protocol (ACP)** — standardized SDK for any AI agent
+- **Multi-model routing** — route requests across providers with cost optimization
+- **Sandboxed execution** — httpjail-based network isolation per agent
+- **Pipeline engine** — compose agents into DAG workflows
+- **242+ commands** — everything from `forge serve` to `forge orchestrate` to `forge cost`
+
+**Why it matters:** This isn't a wrapper around LangChain. It's a ground-up orchestration platform that treats agents as first-class infrastructure — with audit trails, cost tracking, replay, and governance built in.
+
+**Tech:** Go, Cobra CLI, gRPC, Docker, WireGuard tunnels, CRDT-based state sync
 
 ---
 
-## 📈 Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=yethikrishna&theme=radical)  
+### 🌐 [Project Anvil](https://github.com/yethikrishna/project-anvil) — Federated Alphabet Ecosystem
+
+A complete self-hosted alternative to Google's core productivity suite, unified under single sign-on.
+
+```
+6 apps  •  Drive • Docs • YouTube • Maps • Search • Gmail  •  SSO via Keycloak
+```
+
+**What it does:**
+- **Google Drive clone** — S3/MinIO storage, materialized path directories, share links
+- **Google Docs clone** — Tiptap editor + Yjs CRDT + Hocuspocus WebSocket for real-time collab
+- **YouTube clone** — Redux-cached video search with debounced autocomplete
+- **Google Maps clone** — MapLibre GL + OpenMapTiles + OSRM routing + WebGL rendering
+- **Google Search clone** — Meilisearch-powered full-text + vector search
+- **Gmail clone** — Stalwart JMAP mail server with modern client
+
+**Why it matters:** This proves you can build a privacy-first, self-hosted productivity suite that doesn't sacrifice the features people actually use. One auth system, six apps, zero Google dependency.
+
+**Tech:** Next.js 16, React 19, TypeScript, Tiptap, Yjs, MapLibre, Meilisearch, Keycloak, MinIO, PostgreSQL, Redis, Docker Compose
 
 ---
 
-## 💬 Let's Connect
-I'm always open to discussing new projects, creative ideas or opportunities to be part of your vision. Feel free to reach out!
+### 🧠 [KARMA](https://github.com/yethikrishna/karma-platform) — Causal Decision Intelligence
+
+Build causal graphs, run counterfactual reasoning, and make better decisions. Not just correlation — causation.
+
+**Tech:** Python, causal inference, graph algorithms
 
 ---
 
-**Built with ❤️ by Yethikrishna R*
+## How I Work
+
+I run an **autonomous AI engineering org** — 24 specialized agents across 5 LLM providers (Claude, Grok, GLM-5.1, Bedrock) working in coordinated shifts:
+
+```
+CEO → CTOs → Coders, Architects, QA, R&D
+         ↕
+Intelligence Dept (Signal Scanner, Deep Analyst, Source Tracker, Curator)
+         ↕
+Operations (Security, Release, Docs, Cost Ops, BizDev, Janitor)
+```
+
+These agents read real-time signals from X, Hacker News, GitHub trending, and npm releases — then write production code, run tests, and ship. Every commit is tested. Every release is gated. This isn't a demo — it's a real engineering pipeline that runs 24/7.
+
+---
+
+## By The Numbers
+
+| Metric | Value |
+|--------|-------|
+| Total lines of production code | **200K+** |
+| Active projects | **2** (the-forge, project-anvil) |
+| Internal packages built | **232+** |
+| CLI commands implemented | **164+** |
+| Autonomous AI agents in org | **24** |
+| LLM providers integrated | **5** |
+| Real-time collab apps built | **6** (Drive, Docs, YouTube, Maps, Search, Gmail) |
+
+---
+
+## Tech Stack
+
+**Languages:** Go, TypeScript, Python, Rust
+
+**Frontend:** React, Next.js, Tiptap, MapLibre, Tailwind CSS, Redux
+
+**Backend:** Go (Chi/Cobra), Node.js (Express/Fastify), Hocuspocus, gRPC
+
+**Data:** PostgreSQL, Redis, MinIO (S3), Meilisearch, Keycloak
+
+**Infra:** Docker, WireGuard, AWS, GitHub Actions, CRDT (Yjs)
+
+**AI/ML:** Multi-provider LLM routing, RAG, vector search, causal inference, agent orchestration
+
+---
+
+## Philosophy
+
+> Ship working systems, not slide decks.
+
+Every project in my profile compiles. Every feature has tests. Every architecture decision is documented. I believe the best resume is code that runs.
+
+---
+
+<div align="center">
+
+**[→ See The Forge in action](https://github.com/yethikrishna/the-forge)**  •  **[→ Explore Project Anvil](https://github.com/yethikrishna/project-anvil)**
+
+<img src="https://komarev.com/ghpvc/?username=yethikrishna&color=blue&style=flat-square" alt="Profile views">
+
+</div>
