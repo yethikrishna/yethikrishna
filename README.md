@@ -122,7 +122,7 @@ These aren't repos that just exist — they were **deployed, had real users, and
 | **YETR Content Creation** | AI-powered content generation platform for creative workflows | Deployed |
 | **Yeti AI Corporate** | Full corporate website — 8 pages, animations, modern design | Live |
 | **Full-Feature Agentic App** | Complete agentic AI application with multi-agent orchestration | Live at yobo-sigma.vercel.app |
-| **y0** | Full AI agent orchestration platform — originally inspired by Kortix Suna, rebuilt from scratch with 5,600+ commits of original work. Not a fork — a ground-up rewrite. | Live at kortix-suna.vercel.app |
+| **y0** | Full AI agent orchestration platform — originally inspired by Kortix Suna, rebuilt from scratch with 5,600+ commits of original work. Not a fork — a ground-up rewrite. | Live at y0-app.vercel.app |
 | **Study AI** | AI-powered study assistant | Deployed |
 | **Goodspeed Landing Pages** | High-conversion landing pages for multiple products | Deployed |
 
