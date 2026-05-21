@@ -118,15 +118,15 @@ These aren't repos that just exist — they were **deployed, had real users, and
 | **Mynd Labs** | AI-native IDE with integrated terminal, browser, and agent workspace | Deployed at myndlabs.tech |
 | **YETR by Yeti AI** | Comprehensive AI workspace platform — multi-agent, MCP-connected, full creative suite | Deployed, hundreds of users |
 | **Yeti AI Platform** | Full-stack conversational AI platform & creative suite with 1000+ app connectors | Deployed, production |
-| **YetiChat** | Real-time chat platform powered by AI (Gemini + LangGraph) | Deployed |
+| **YetiChat** | Full-featured real-time chat platform (79MB codebase) | Deployed |
 | **YETR Content Creation** | AI-powered content generation platform for creative workflows | Deployed |
 | **Yeti AI Corporate** | Full corporate website — 8 pages, animations, modern design | Live |
 | **Full-Feature Agentic App** | Complete agentic AI application with multi-agent orchestration | Live at yobo-sigma.vercel.app |
-| **Kortix Suna (Fork)** | Agent orchestration platform — enhanced fork with custom integrations | Live at kortix-suna.vercel.app |
+| **y0** | Full AI agent orchestration platform — originally inspired by Kortix Suna, rebuilt from scratch with 5,600+ commits of original work. Not a fork — a ground-up rewrite. | Live at kortix-suna.vercel.app |
 | **Study AI** | AI-powered study assistant | Deployed |
 | **Goodspeed Landing Pages** | High-conversion landing pages for multiple products | Deployed |
 
-Plus **client work, internal tools, Discord bots, and prototype products** across 30+ private repositories — from accounting systems to prompt optimizers to logo studios to AI browser chats.
+Plus **client work, internal tools, Discord bots, and prototype products** across 30+ private repositories — from accounting systems to prompt optimizers to logo studios to AI browser chats, a Manus.im clone, Bluesky automation, a coding agent template, and Ragaroots.
 
 ### 🤖 AI Products (Public)
 
