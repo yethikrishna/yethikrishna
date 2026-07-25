@@ -1,220 +1,132 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yethikrishna+%F0%9F%91%8B;AI+Engineer+%26+Full-Stack+Builder;Founder+of+the+YetiVerse+%F0%9F%9A%80;Building+the+Future+of+AI+Applications" alt="Typing SVG" />
+</p>
 
-<h1>Yethikrishna R</h1>
+<p align="center">
+  <em>AI Engineer | Full-Stack Developer | Founder of <strong>YetiVerse</strong> | Building intelligent systems that empower people</em>
+</p>
 
-**I build systems that shouldn't be possible for one person — then make them real.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-yethikrishna-181717?style=flat-square&logo=github)](https://github.com/yethikrishna)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yethikrishna-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yethikrishna-r-313530201/)
-
-</div>
-
----
-
-## Who I Am
-
-I'm a builder from Kerala, India. I don't specialize in one stack — I build whatever the project demands: a 182K-line Go CLI platform, a 6-app TypeScript ecosystem, a zero-dependency Python search engine, a Rust code analyzer, a 3D browser game about Kerala's heritage, a programming language, and multiple SaaS products that served hundreds of real users. I've shipped **69+ original projects** across 9 languages, with **30+ additional private projects** including deployed products and client work. Every line of the early work was written by hand — AI acceleration came later, as a multiplier on existing craft.
-
----
-
-## The Scale
-
-| What | Number |
-|------|--------|
-| Original projects shipped (public) | **69** |
-| Private projects & client work | **30+** |
-| Total repositories | **125+** |
-| Languages used in production | **9** (Go, TypeScript, Python, Rust, Svelte, Vue, HTML, Jupyter, JS) |
-| Lines of production code (the-forge alone) | **182K+** |
-| Internal packages designed & built | **232** |
-| CLI commands implemented | **164** |
-| Google products cloned from scratch | **6** |
-| SaaS products deployed to real users | **Multiple** |
-| "World's first" projects | **4** |
-| Hackathon projects | **Multiple** |
+<p align="center">
+  <a href="https://github.com/yethikrishna">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://yethikrishna.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=yethikrishna&style=for-the-badge&color=6366F1" alt="Profile Views" />
+</p>
 
 ---
 
-## The Work
+## About Me
 
-### 🏗️ Infrastructure at Scale
+I'm **Yethikrishna**, an AI engineer and full-stack developer passionate about building the next generation of AI-powered applications. I'm the creator of the **YetiVerse** -- a growing ecosystem of AI platforms, agents, creative tools, and experimental projects that push the boundaries of what AI can do.
 
-<table>
-<tr>
-<td width="50%">
-
-### [The Forge](https://github.com/yethikrishna/the-forge)
-**AI Agent Orchestration Platform — Go**
-
-182K+ lines. 232 packages. 164 commands. Built from scratch.
-
-ACP SDK for any agent. Multi-model routing with cost optimization. httpjail sandboxing. Pipeline DAG engine. Audit trails. Replay. Governance scoring. WireGuard tunnels. P2P file transfer. This isn't a wrapper — it's ground-up infrastructure that treats agents as first-class systems.
-
-</td>
-<td width="50%">
-
-### [Project Anvil](https://github.com/yethikrishna/project-anvil)
-**Federated Alphabet Ecosystem — TypeScript/Next.js**
-
-Six full Google product clones. One auth system. Zero Google dependency.
-
-Drive (S3/MinIO), Docs (Tiptap + Yjs CRDT + Hocuspocus real-time), YouTube (Redux + debounced search), Maps (MapLibre + OSRM routing + WebGL), Search (Meilisearch + vector), Gmail (Stalwart JMAP). SSO via Keycloak. Docker Compose one-command deploy.
-
-</td>
-</tr>
-</table>
-
-### 🧠 The MYND Ecosystem — 7 Interconnected Platforms
-
-A complete AI observability and intelligence stack. Each repo is a standalone platform, together they form a unified system for understanding AI agents:
-
-| Project | What It Does |
-|---------|-------------|
-| [**MYND Platform**](https://github.com/yethikrishna/mynd-platform) | Core agent platform — GUI automation, persistent memory, multi-agent orchestration, skills marketplace |
-| [**MYND Knowledge Paleontology**](https://github.com/yethikrishna/mynd-knowledge-paleontology) | 🧬 World's first knowledge origin & lineage tracking for AI — the fossil record of what AI knows and where it came from |
-| [**MYND Decision Paleontology**](https://github.com/yethikrishna/mynd-decision-paleontology) | World's first agent decision forensics — provenance tracking for every choice an AI makes |
-| [**MYND Prompt Phylogeny**](https://github.com/yethikrishna/mynd-prompt-phylogeny) | World's first prompt evolutionary lineage — biological phylogenetics applied to prompt engineering |
-| [**MYND Model Holography**](https://github.com/yethikrishna/mynd-model-holography) | World's first model knowledge transfer & distillation visualization — see how intelligence flows between models |
-| [**MYND Model Arena**](https://github.com/yethikrishna/mynd-model-arena) | LLM evolutionary benchmarking — survival of the fittest model |
-| [**MYND Agent Replay**](https://github.com/yethikrishna/mynd-agent-replay) | Black box flight recorder for AI agents — replay any decision, any action |
-
-### 🔬 Deep Tech
-
-<table>
-<tr>
-<td width="33%">
-
-### [KARMA](https://github.com/yethikrishna/karma-platform)
-**Causal Decision Intelligence — Python**
-
-Build causal graphs. Run counterfactual reasoning. Move beyond correlation to causation. Not "what happened" — "what would happen if."
-
-</td>
-<td width="33%">
-
-### [RBSP Framework](https://github.com/yethikrishna/rbsp-framework)
-**Search Engine from Scratch — Python**
-
-Zero-dependency, pure-Python SOTA search engine. 3,233 tests. 80+ modules. No ElasticSearch, no Solr — the indexing, the ranking, the query parsing, all hand-built.
-
-</td>
-<td width="33%">
-
-### [INDU Foundation](https://github.com/yethikrishna/indu-foundation)
-**Programming Language — Svelte**
-
-A universal language & framework. Write with Python's ease, scale with Erlang's fault-tolerance, execute with C's speed. Language design + runtime architecture.
-
-</td>
-</tr>
-</table>
-
-### 🚀 Shipped Products & SaaS (Private / Deployed)
-
-These aren't repos that just exist — they were **deployed, had real users, and processed real traffic**:
-
-| Product | What It Does | Status |
-|---------|-------------|--------|
-| **Mynd Labs** | AI-native IDE with integrated terminal, browser, and agent workspace | Deployed at myndlabs.tech |
-| **YETR by Yeti AI** | Comprehensive AI workspace platform — multi-agent, MCP-connected, full creative suite | Deployed, hundreds of users |
-| **Yeti AI Platform** | Full-stack conversational AI platform & creative suite with 1000+ app connectors | Deployed, production |
-| **YetiChat** | Full-featured real-time chat platform (79MB codebase) | Deployed |
-| **YETR Content Creation** | AI-powered content generation platform for creative workflows | Deployed |
-| **Yeti AI Corporate** | Full corporate website — 8 pages, animations, modern design | Live |
-| **Full-Feature Agentic App** | Complete agentic AI application with multi-agent orchestration | Live at yobo-sigma.vercel.app |
-| **y0** | Full AI agent orchestration platform — originally inspired by Kortix Suna, rebuilt from scratch with 5,600+ commits of original work. Not a fork — a ground-up rewrite. | Live at y0-app.vercel.app |
-| **Study AI** | AI-powered study assistant | Deployed |
-| **Goodspeed Landing Pages** | High-conversion landing pages for multiple products | Deployed |
-
-Plus **client work, internal tools, Discord bots, and prototype products** across 30+ private repositories — from accounting systems to prompt optimizers to logo studios to AI browser chats, a Manus.im clone, Bluesky automation, a coding agent template, and Ragaroots.
-
-### 🤖 AI Products (Public)
-
-| Project | What It Does |
-|---------|-------------|
-| [**LevelCode**](https://github.com/yethikrishna/levelcode) ⭐2 | Open-source AI coding agent — multi-agent architecture for precise codebase editing. Built to go beyond Claude Code. |
-| [**YETR AI Agent**](https://github.com/yethikrishna/yetr-ai-agent) ⭐1 | Enhanced task runner — connects to multiple MCP servers simultaneously for unified tool & data access |
-| [**Feen**](https://github.com/yethikrishna/feen) ⭐2 | Secure API key sharing — manage, share, and monetize API keys. Open-source. |
-| [**Bonzai Core Engine**](https://github.com/yethikrishna/bonzai-core-engine) | AI platform backend with MCP memory integration |
-| [**ContextWeave AI**](https://github.com/yethikrishna/contextweave-ai) | Production-ready AI orchestration for context-aware apps |
-| [**LifeGuide AI**](https://github.com/yethikrishna/lifeguide-ai) 🏆 | AI Wellness Companion — MiniMax Hackathon 2025 |
-| [**Forge (Rust)**](https://github.com/yethikrishna/forge) | Code transformation & analysis platform in Rust |
-
-### 🛠️ SaaS & Tools
-
-| Project | What It Does |
-|---------|-------------|
-| [**VaultFlow**](https://github.com/yethikrishna/vaultflow) | Privacy-first, offline-enabled SaaS — contracts, file sharing, payment milestones for freelancers |
-| [**KeepTrak**](https://github.com/yethikrishna/keeptrak) | Offline-first finance tracker for solo founders — invoices, contracts, no cloud needed |
-| [**Neural Workspaces**](https://github.com/yethikrishna/neural-workspaces-saas) | AI workspace capture + knowledge graph with browser extension |
-
-### 🎮 Creative & Experimental
-
-| Project | What It Does |
-|---------|-------------|
-| [**Private Vault — Kerala Game**](https://github.com/yethikrishna/private-vault-kerala-game) | 3D web adventure game exploring Kerala's cultural heritage — authentic cities, traditional vehicles, cultural landmarks. No login, instant play. |
-| [**YetiChat AI**](https://github.com/yethikrishna/yetichat-ai) | AI research assistant powered by Gemini + LangGraph |
-| [**Sherlock**](https://github.com/yethikrishna/Sherlock) | Investigation tool |
+- **Building:** YetiVerse ecosystem of AI platforms and intelligent agents
+- **Exploring:** AI agents, LLM orchestration, creative AI, OSINT tools, and wellness technology
+- **Stack:** Python, TypeScript, React, Next.js, FastAPI, Node.js, Vue/Nuxt, Docker
+- **Hackathons:** Award-winning projects including LifeGuide AI (MiniMax Hackathon)
 
 ---
 
-## The Journey
+## Tech Stack
 
-```
-2022 ─── First repo. The beginning.
-  │
-2023 ─── Learning. Exploring. Building foundations.
-  │
-2024 ─── Finding the path. More experiments.
-  │
-2025 ─── The explosion. 38 original projects.
-  │       Yeti AI ecosystem — chat, agents, content creation, 
-  │       corporate site. Multiple SaaS products deployed.
-  │       Hackathons. Bonzai. MCP integration.
-  │       Real users on real products.
-  │
-2026 ─── The synthesis. 28 projects and counting.
-  │       MYND — 7 interconnected AI observability platforms.
-  │       KARMA — causal intelligence.
-  │       RBSP — search from scratch.
-  │       INDU — a programming language.
-  │       The Forge — 182K lines of Go.
-  │       Project Anvil — 6 Google clones.
-  │       Mynd Labs — deployed AI-native IDE.
-  │       And a 24-agent autonomous engineering org
-  │       that ships production code every hour.
-```
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
----
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-## Stack
+### Backend & AI
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Systems:** Go, Rust, Python, TypeScript/JavaScript, Svelte, Vue
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**AI/ML:** Multi-provider LLM orchestration, RAG, vector search, causal inference, CRDT, agent protocols (ACP, MCP), prompt phylogenetics, knowledge distillation
-
-**Frontend:** React, Next.js 16, Tiptap, MapLibre, Three.js, Tailwind, Redux
-
-**Backend:** gRPC, Chi, Express, Fastify, Hocuspocus, Keycloak, WireGuard
-
-**Data:** PostgreSQL, Redis, MinIO/S3, Meilisearch, Yjs
-
-**Infra:** Docker, Docker Compose, AWS, Vercel, GitHub Actions
+### AI Platforms
+![Claude](https://img.shields.io/badge/Claude-D97758?style=flat-square&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
-## Philosophy
+## Featured Projects
 
-I don't follow tutorials. I read source code. I don't use frameworks I don't understand — I rebuild them. I don't stop at "it works" — I stop at "it's right." And I don't just push to GitHub — I deploy, get users, and learn from real traffic.
+### Core AI Platforms
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**YetiAI**](https://github.com/yethikrishna/yetiai) | Core AI platform & models | React, TS, Vite, Supabase |
+| [**Yeti AI**](https://github.com/yethikrishna/Yeti-) | Full-stack AI with Gemini | React 19, FastAPI, MongoDB |
+| [**yeti-ai**](https://github.com/yethikrishna/yeti-ai) | AI app development platform | React, Python, Vite |
+| [**YetiVerse Hub**](https://github.com/yethikrishna/yetiverse-hub) | Ecosystem hub for all Yeti projects | Documentation |
 
-Every project in this profile was built to solve a real problem. Every repo compiles. Every architecture was designed before coded. 125+ repositories isn't hoarding — it's the output of someone who builds constantly, ships relentlessly, and never stops learning.
+### AI Agents & Assistants
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**yetr-ai-agent**](https://github.com/yethikrishna/yetr-ai-agent) | Enhanced MCP task runner agent | Next.js 14, Tailwind |
+| [**yeti-suna-ai**](https://github.com/yethikrishna/yeti-suna-ai) | Suna-based AI assistant fork | Python, Docker |
+| [**Yethanus**](https://github.com/yethikrishna/Yethanus) | AI experimentation framework | Python, AI agents |
+
+### AI Companions
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**MumaBear**](https://github.com/yethikrishna/mumabear) | AI parenting & family assistant | Python, Docker |
+| [**MumaBear Claude**](https://github.com/yethikrishna/mumabear-claude) | Claude-powered MumaBear | Node.js, React, Claude |
+| [**LifeGuide AI**](https://github.com/yethikrishna/lifeguide-ai) | AI wellness companion (MiniMax Hackathon winner) | React, TS, Vite |
+
+### Creative Tools & Apps
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Yeet Artistic Platform**](https://github.com/yethikrishna/yeet-artistic-platform) | AI artistic creation platform | React, Framer Motion |
+| [**Sherlock**](https://github.com/yethikrishna/Sherlock) | AI OSINT investigation tool | Python, Poetry, Docker |
+| [**LOVABLE-CLONE**](https://github.com/yethikrishna/LOVABLE-CLONE) | Lovable AI app builder clone | Expo, React Native |
+| [**YR**](https://github.com/yethikrishna/YR) | Vue.js / Nuxt.js web application | Vue, Nuxt, TypeScript |
 
 ---
 
-<div align="center">
+## GitHub Stats
 
-**[→ The Forge](https://github.com/yethikrishna/the-forge)** · **[→ Project Anvil](https://github.com/yethikrishna/project-anvil)** · **[→ MYND Ecosystem](https://github.com/yethikrishna/mynd-platform)** · **[→ KARMA](https://github.com/yethikrishna/karma-platform)**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yethikrishna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Yethikrishna's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yethikrishna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=yethikrishna&color=blue&style=flat-square" alt="views">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yethikrishna&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
 
-</div>
+---
+
+## Connect With Me
+
+- **GitHub:** [@yethikrishna](https://github.com/yethikrishna)
+- **Portfolio:** Check out my pinned repositories for latest work
+
+---
+
+<p align="center">
+  <em>Building the YetiVerse -- one AI project at a time. Let's create something amazing together.</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=80&section=footer" />
+</p>
+
+<!-- SEO Keywords: Yethikrishna, AI engineer, full-stack developer, YetiVerse, AI platforms, Python developer, TypeScript developer, React developer, AI agent builder, machine learning engineer, indie hacker, AI startup founder, MLOps, LLM developer -->
