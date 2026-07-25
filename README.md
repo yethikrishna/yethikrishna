@@ -7,8 +7,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-yethikrishna-181717?style=flat-square&logo=github)](https://github.com/yethikrishna)
 [![Portfolio](https://img.shields.io/badge/founder.myndlabs.tech-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://founder.myndlabs.tech)
-[![Site](https://img.shields.io/badge/yethikrishnar.is--a.dev-0ea5e9?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://yethikrishnar.is-a.dev)
-[![V2](https://img.shields.io/badge/yethikrishnar.is--a--good.dev-22c55e?style=flat-square&logo=safari&logoColor=white)](https://yethikrishnar.is-a-good.dev)
+[![Site](https://img.shields.io/badge/yethikrishna.is--a.dev-0ea5e9?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://yethikrishna.is-a.dev)
+[![V2](https://img.shields.io/badge/yethikrishna.is--a--good.dev-22c55e?style=flat-square&logo=safari&logoColor=white)](https://yethikrishna.is-a-good.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yethikrishna-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yethikrishna-r-313530201/)
 
 </div>
