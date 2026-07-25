@@ -366,21 +366,19 @@ SUPERPOWER: turning 3am ideas into production repos before sunrise
 
 <br/><br/>
 
-<!-- FX ANIMATION 10: Dev quote -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20code%20is%20the%20code%20that%20ships.%20The%20second%20best%20is%20the%20code%20that%20gets%20deleted.&author=yethikrishna" />
 
 </div>
 
 ---
 
-<!-- FX ANIMATION 11: Contribution snake game -->
+<!-- FX ANIMATION 11: Animated snake eating contribution graph -->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yethikrishna/yethikrishna/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yethikrishna/yethikrishna/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/yethikrishna/yethikrishna/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
-<sub><i>💡 add the Platane/snk GitHub Action to enable the animated snake (workflow YAML provided upon request)</i></sub>
 </div>
 
 ---
